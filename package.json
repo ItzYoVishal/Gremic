@@ -1,0 +1,19 @@
+{
+  "name": "gremic",
+  "version": "0.0.1-alpha",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzYoVishal/Gremic.git"
+  },
+  "author": "ItzYoVishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItzYoVishal/Gremic/issues"
+  },
+  "homepage": "https://github.com/ItzYoVishal/Gremic#readme"
+}
